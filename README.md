@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gym Tracker API
 
 A professional FastAPI-based REST API for managing gym training data. This project tracks categories, exercises, user sessions, and exercise-to-session relationships.
