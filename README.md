@@ -19,7 +19,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-3. Initialize the database and run the app
+3. Initialize the database and run the app:
 
 ```bash
 python -c "from database import create_tables; create_tables()"
