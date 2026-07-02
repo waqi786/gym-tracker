@@ -37,7 +37,7 @@ python seed.py
 - `admin` / `admin123` (admin)
 - `user1` / `user123` (basic user)
 
-## API Overview
+## API Overview:
 
 ### Authentication
 - `POST /auth/register` — Register a new user
