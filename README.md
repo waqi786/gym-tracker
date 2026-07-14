@@ -48,7 +48,7 @@ python seed.py
 - `POST /categories/` — Create a category (admin only)
 - `DELETE /categories/{id}` — Delete a category (admin only)
 
-### Exercises
+### Exercises:
 - `GET /exercises/` — List exercises (`?skip=&limit=&category_id=`)
 - `GET /exercises/{id}` — Get exercise details
 - `POST /exercises/` — Create an exercise (admin only)
